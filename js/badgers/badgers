@@ -4,5 +4,5 @@ var c = require("skilstak-colors");
 
 console.log(c.clear);
 for (var n = 0; n < 12; n++) {
-  console.log(n + c.multi("badgers"));
+  console.log(n + c.multi(" badgers "));
 }
